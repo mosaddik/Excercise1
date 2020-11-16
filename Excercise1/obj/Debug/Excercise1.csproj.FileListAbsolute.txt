@@ -1,0 +1,6 @@
+c:\users\osc-ent-mosaddik\Documents\Visual Studio 2015\Projects\Excercise1\Excercise1\bin\Debug\Excercise1.exe.config
+c:\users\osc-ent-mosaddik\Documents\Visual Studio 2015\Projects\Excercise1\Excercise1\bin\Debug\Excercise1.exe
+c:\users\osc-ent-mosaddik\Documents\Visual Studio 2015\Projects\Excercise1\Excercise1\bin\Debug\Excercise1.pdb
+c:\users\osc-ent-mosaddik\Documents\Visual Studio 2015\Projects\Excercise1\Excercise1\obj\Debug\Excercise1.csprojResolveAssemblyReference.cache
+c:\users\osc-ent-mosaddik\Documents\Visual Studio 2015\Projects\Excercise1\Excercise1\obj\Debug\Excercise1.exe
+c:\users\osc-ent-mosaddik\Documents\Visual Studio 2015\Projects\Excercise1\Excercise1\obj\Debug\Excercise1.pdb
